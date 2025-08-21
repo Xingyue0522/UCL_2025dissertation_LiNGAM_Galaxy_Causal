@@ -1,0 +1,8 @@
+data/
+*.npz
+*.fits
+*.tar.gz
+*.zip
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
