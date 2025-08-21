@@ -39,9 +39,11 @@ The workflow runs **DirectLiNGAM with bootstrap stability** across multiple scen
 
 ---
 ## Data acquisition address
-SDSS :https://deepdip.iap.fr/#item/60ef1e05be2b8ebb048d951d 
-Galaxy Zoo 2: https://zooniverse-data.s3.amazonaws.com/galaxy-zoo-2/zoo2MainSpecz.csv.gz
-You can also obtain item from Dropbox
+
+**SDSS**: https://deepdip.iap.fr/#item/60ef1e05be2b8ebb048d951d 
+**Galaxy Zoo 2**: https://zooniverse-data.s3.amazonaws.com/galaxy-zoo-2/zoo2MainSpecz.csv.gz
+> After downloading the data, please place it under "data" folder.
+
 ---
 
 ## Environment
