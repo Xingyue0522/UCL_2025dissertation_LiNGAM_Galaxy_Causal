@@ -6,3 +6,12 @@ data/
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+data/
+*.npz
+*.fits
+*.csv
+*.tar.gz
+*.zip
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
